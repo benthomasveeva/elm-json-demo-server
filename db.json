@@ -1,0 +1,22 @@
+{ 
+	"games": [ 
+		{ 
+			"id": 1,
+			"opponent": "Eve",
+			"ourScore": 60, 
+			"theirScore": 50
+		}, 
+		{ 
+			"id": 2, 
+			"opponent": "Merv",
+			"ourScore": 70, 
+			"theirScore": 20
+		},
+		{ 
+			"id": 3,
+			"opponent": "Nuala",
+			"ourScore": 30,
+			"theirScore": 50
+		}
+	]
+}
