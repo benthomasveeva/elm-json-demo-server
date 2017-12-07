@@ -18,5 +18,8 @@
 			"ourScore": 30,
 			"theirScore": 50
 		}
-	]
+	],
+	"status": {
+		"currentOpponent": "Merv"
+	}
 }
