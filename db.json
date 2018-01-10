@@ -21,5 +21,17 @@
 	],
 	"status": {
 		"currentOpponent": "Merv"
+	},
+	"opponent": {
+		"Merv": {
+			"games": [
+				{
+					"id": 2,
+					"opponent": "Merv",
+					"ourScore": 70,
+					"theirScore": 20
+				}
+			]
+		}
 	}
 }
